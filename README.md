@@ -2,7 +2,7 @@
 
 Clone the repository with clone url
 
-[git clone https://github.com/yourusername/employee-data.git](https://github.com/arunca231/employee_management_system.git)
+[git clone https://github.com/arunca231/employee_management_system.git]
 
 Set up and Install dependencies
 
